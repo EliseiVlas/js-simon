@@ -15,3 +15,6 @@
 input {
 	width: 80px !important;
 }
+.none{
+	display: none;
+}
